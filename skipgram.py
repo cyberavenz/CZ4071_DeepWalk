@@ -1,5 +1,3 @@
-#official
-
 from collections import Counter, Mapping
 from concurrent.futures import ProcessPoolExecutor
 import logging
